@@ -15,8 +15,8 @@ danmu_mqtt
 修改下MQTT的地址  端口 mqtt频道  room_id
 
 
-弹幕关键字在进行修改 
-'''python 
+弹幕关键字在进行修改  
+'''python
 if danmu['text']=="#加油":
 
 '''
