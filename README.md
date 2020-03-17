@@ -16,10 +16,10 @@ danmu_mqtt
 
 
 弹幕关键字在进行修改 
-'''
+'''python 
 if danmu['text']=="#加油":
 
 '''
-python 
+
 
 
